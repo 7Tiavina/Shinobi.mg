@@ -31,7 +31,9 @@
   },
   "name":"Shinobi.mg",
   "resources":[
+    {"id":{"name":"Obj_characters","path":"objects/Obj_characters/Obj_characters.yy",},},
     {"id":{"name":"Obj_collision","path":"objects/Obj_collision/Obj_collision.yy",},},
+    {"id":{"name":"Obj_depth_collision","path":"objects/Obj_depth_collision/Obj_depth_collision.yy",},},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
     {"id":{"name":"Obj_props_parent","path":"objects/Obj_props_parent/Obj_props_parent.yy",},},
     {"id":{"name":"Obj_tree_solo_1","path":"objects/Obj_tree_solo_1/Obj_tree_solo_1.yy",},},
@@ -44,6 +46,7 @@
     {"id":{"name":"Special1","path":"sprites/Special1/Special1.yy",},},
     {"id":{"name":"Special2","path":"sprites/Special2/Special2.yy",},},
     {"id":{"name":"spr_collision","path":"sprites/spr_collision/spr_collision.yy",},},
+    {"id":{"name":"spr_depth_collision","path":"sprites/spr_depth_collision/spr_depth_collision.yy",},},
     {"id":{"name":"Spr_flour_details","path":"sprites/Spr_flour_details/Spr_flour_details.yy",},},
     {"id":{"name":"Spr_flour","path":"sprites/Spr_flour/Spr_flour.yy",},},
     {"id":{"name":"Spr_house","path":"sprites/Spr_house/Spr_house.yy",},},

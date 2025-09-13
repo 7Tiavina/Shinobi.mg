@@ -1,22 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_player",
+  "%Name":"Obj_depth_collision",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_player",
+  "name":"Obj_depth_collision",
   "overriddenProperties":[],
   "parent":{
-    "name":"Player",
-    "path":"folders/Player.yy",
+    "name":"Collisions",
+    "path":"folders/Collisions.yy",
   },
-  "parentObjectId":{
-    "name":"Obj_characters",
-    "path":"objects/Obj_characters/Obj_characters.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -35,12 +31,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_player_example",
-    "path":"sprites/spr_player_example/spr_player_example.yy",
+    "name":"spr_depth_collision",
+    "path":"sprites/spr_depth_collision/spr_depth_collision.yy",
   },
-  "spriteMaskId":{
-    "name":"spr_player_example",
-    "path":"sprites/spr_player_example/spr_player_example.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }

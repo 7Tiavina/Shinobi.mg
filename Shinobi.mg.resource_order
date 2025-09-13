@@ -13,7 +13,9 @@
     {"name":"Tiles","order":3,"path":"folders/Tile Sets/Tiles.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Obj_characters","order":3,"path":"objects/Obj_characters/Obj_characters.yy",},
     {"name":"Obj_collision","order":1,"path":"objects/Obj_collision/Obj_collision.yy",},
+    {"name":"Obj_depth_collision","order":3,"path":"objects/Obj_depth_collision/Obj_depth_collision.yy",},
     {"name":"Obj_player","order":2,"path":"objects/Obj_player/Obj_player.yy",},
     {"name":"Obj_props_parent","order":3,"path":"objects/Obj_props_parent/Obj_props_parent.yy",},
     {"name":"Obj_tree_trio_1","order":1,"path":"objects/Obj_tree_trio_1/Obj_tree_trio_1.yy",},
@@ -22,6 +24,7 @@
     {"name":"Jump","order":4,"path":"sprites/Jump/Jump.yy",},
     {"name":"Special1","order":5,"path":"sprites/Special1/Special1.yy",},
     {"name":"Special2","order":6,"path":"sprites/Special2/Special2.yy",},
+    {"name":"spr_depth_collision","order":2,"path":"sprites/spr_depth_collision/spr_depth_collision.yy",},
     {"name":"Spr_flour_details","order":2,"path":"sprites/Spr_flour_details/Spr_flour_details.yy",},
     {"name":"Spr_house","order":1,"path":"sprites/Spr_house/Spr_house.yy",},
     {"name":"spr_player_example","order":8,"path":"sprites/spr_player_example/spr_player_example.yy",},
