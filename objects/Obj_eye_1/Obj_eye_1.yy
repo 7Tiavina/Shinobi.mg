@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_characters",
+  "%Name":"Obj_eye_1",
   "eventList":[],
   "managed":true,
-  "name":"Obj_characters",
+  "name":"Obj_eye_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Player",
-    "path":"folders/Characters/Player.yy",
+    "name":"Objects",
+    "path":"folders/Characters/Enemies/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,13 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
-  "spriteMaskId":null,
+  "spriteId":{
+    "name":"spr_solo_eye_1",
+    "path":"sprites/spr_solo_eye_1/spr_solo_eye_1.yy",
+  },
+  "spriteMaskId":{
+    "name":"spr_solo_eye_1",
+    "path":"sprites/spr_solo_eye_1/spr_solo_eye_1.yy",
+  },
   "visible":true,
 }

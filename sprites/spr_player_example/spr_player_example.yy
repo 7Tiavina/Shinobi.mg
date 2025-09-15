@@ -26,7 +26,7 @@
   "origin":7,
   "parent":{
     "name":"Sprite",
-    "path":"folders/Player/Sprite.yy",
+    "path":"folders/Characters/Player/Sprite.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
