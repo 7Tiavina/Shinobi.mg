@@ -1,6 +1,6 @@
 /// @description Dessin du joueur et de l'animation
 //profondeur
-depth = -y;
+if (!place_meeting(x,y,Obj_depth_collision)) depth = -y;
 
 // Taille d'une frame
 var_cs = 16;
